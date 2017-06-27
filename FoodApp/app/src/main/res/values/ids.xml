@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="txtUsuario" type="id">txtUsuario</item>
+    <item name="txtPassword" type="id">txtPassword</item>
+    <item name="btn_registrar" type="id">btn_registrar</item>
+    <item name="btn_cancelar" type="id">btn_cancelar</item>
+    <item name="txtCodigo" type="id">txtCodigo</item>
+    <item name="txtUsuarioRegistro" type="id">txtUsuarioRegistro</item>
+    <item name="txtPasswordRegistro" type="id">txtPasswordRegistro</item>
+    <item name="btn_ingresar" type="id">btn_ingresar</item>
+    <item name="login_ingresar" type="id">login_ingresar</item>
+    <item name="txt_nombreMenu" type="id">txt_nombreMenu</item>
+    <item name="txt_precioMenu" type="id">txt_precioMenu</item>
+    <item name="ltv_listaMenu" type="id">ltv_listaMenu</item>
+    <item name="txt_Nombre" type="id">txt_Nombre</item>
+    <item name="txt_Precio" type="id">txt_Precio</item>
+    <item name="lstLista" type="id">lstLista</item>
+    <item name="tabs" type="id">tabs</item>
+    <item name="viewpager" type="id">viewpager</item>
+
+</resources>
